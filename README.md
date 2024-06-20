@@ -1,5 +1,4 @@
 # CloudGlossary
-Here is a possible README for your GitHub project:
 
 Cloud Computing Simplified: A Cloud Glossary for Beginners
 
@@ -48,7 +47,3 @@ Additional Resources
 Contributing
 
 If you'd like to contribute to this project, please open a pull request or issue. I welcome any suggestions, corrections, or additions to the glossary.
-
-License
-
-This project is licensed under the MIT License.
