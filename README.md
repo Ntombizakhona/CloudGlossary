@@ -37,12 +37,8 @@ I will be prioritizing Amazon Web Services (AWS) as my preferred cloud provider 
 
 Glossary
 
-Coming soon! This glossary will cover cloud terms from "abstraction" to "zero trust", explained in a simple and easy-to-understand way.
+This glossary will cover cloud terms from "abstraction" to "zero trust", explained in a simple and easy-to-understand way.
 
-Additional Resources
-
-- What is Cloud Computing: (link unavailable)
-- The NIST Definition of Cloud Computing: (link unavailable)
 
 Contributing
 
