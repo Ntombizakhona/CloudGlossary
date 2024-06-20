@@ -1,0 +1,2 @@
+# CloudGlossary
+Cloud Glossary Resources
