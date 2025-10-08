@@ -139,3 +139,8 @@ In the cloud, this is the Principle of Least Privilege (PoLP) — giving users t
 The royal chef needs access to the kitchen but has no business entering the armory or archives.
 Whether it’s a castle or the cloud, access control is the foundation of security. Without it, chaos reigns , treasures get stolen, secrets are leaked, and operations fall apart. By implementing robust access control strategies like IBAC, RBAC, and PoLP, you ensure your digital kingdom remains safe, orderly, and efficient.
 So, as the ruler of your cloud castle, remember: protect your treasures, enforce your rules, and always guard the gates!
+
+Cocluding Remarks
+When it comes to Access Control in the Cloud, ensure that you adhere to the Principle of Least Privilege, and never grant users more access than they do, always grant the least access necessary to complete the job!
+
+Cloud environments often benefit from a hybrid approach, combining several strategies to meet security, scalability, and flexibility needs. By implementing a layered strategy, organizations can create a robust access control system tailored to their specific requirements.
