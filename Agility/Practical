@@ -1,0 +1,98 @@
+Let’s Build
+Launching A Website Using Amazon LightSail
+
+I know (hope) you’re eager to set something up. In this practical, hands-on-tutorial, we will demonstrate agility by launching a website using Amazon LightSail. Amazon Lightsail is the easiest way to get started on AWS
+
+Prerequisites
+An AWS Administrative Account that has an Alias Account Configured (IAM)
+
+Ability to Assign Permissions to Users
+Add Permissions for Amazon Lightsail
+Step 1: Sign in with your Administrative Root User Account in order to grant permissions to your IAM User.
+
+
+Step 2: Select Security, Identity & Compliance on the left side of the drop down menu.
+
+
+Step 3: Select IAM.
+
+You should be redirected to the IAM Dashboard.
+
+
+Step 4: On the left side of the screen expand Access management.
+
+
+Step 5: Select Users
+
+
+Step 6: Click Your User
+
+
+Step 7: Permissions. Click Add permissions
+
+Add permissions
+
+Select Attach policies directly.
+
+Select LightSailFullAccessPolicy.
+
+Click Next.
+
+Click Add permissions.
+
+1 policy added.
+
+
+Step 8: Log out of your Administrative Account, and Sign in with your IAM Account
+
+Launch Lightsail Instance
+
+
+Step 9: Select Compute on the left side of the drop down menu.
+
+
+Step 10: Select Lightsail.
+
+
+Step 11: Click Create instance.
+
+Create an instance
+
+Select a Region: Virginia (us-east-1)
+
+Pick your instance image: Linux/Unix
+
+Select a blueprint: App + OS
+
+Select WordPress.
+
+Select $7 USD per month.
+
+Identify your instance: AgilityWordpress
+
+Click Create instance.
+
+When it’s in Running mode, click on it.
+
+
+Step 12: Copy the Public IPv4 address, and paste it into your browser.
+
+If you performed all the steps correctly, you should be redirected to your WordPress Site!
+Congratulations.
+
+
+Important
+Clean Up Resources
+
+Don’t get a Bill Shock by leaving unnecessary resources running.
+
+Navigate to Lightsail and Delete your Application.
+
+Login with your Root User Account, and Remove All Permissions Associated with your IAM Account.
+
+End of Tutorial
+
+
+
+Building Tutorial Overview
+We observed agility by rapidly provisioning a WordPress Site on Amazon LightSail. Wasn’t that quick?
