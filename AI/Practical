@@ -1,0 +1,29 @@
+Let’s Build
+Prompting Amazon Q
+
+I know (hope) you’re eager to set something up. In this practical, hands-on-tutorial, we will demonstrate Generative AI with Amazon Q.
+
+Prerequisites
+An AWS Administrative Account
+
+Prompting Amazon Q From Your Management Console
+Amazon Q is integrated within your AWS Management Console, and all you need to do is log in.
+
+Since we won’t be building anything in this tutorial, you don’t need to use your IAM Account, but you should. You should always build with your IAM User.
+
+Step 01: Login in to the AWS Management Console
+
+
+Step 02: Click on the Amazon Q button on the right side of the page.
+
+
+Step 03: Type a question. For example, I typed: “How to build a conversational chatbot?”
+Amazon Q then provided me with a step-by-step guide.
+
+You can ask Amazon Q anything about AWS and use it as your companion as you begin and continue your journey with building on AWS.
+
+End of Tutorial
+
+
+Building Tutorial Overview
+We observed Generative AI with Amazon Q.
