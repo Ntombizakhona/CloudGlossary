@@ -1,3 +1,6 @@
+Abstraction 
+Simplifying The Complex By Hiding Complicated Details
+
 Abstraction sounds like a scary, complex word when you encounter it for the first time, but it is a universal concept that transcends boundaries across various industries.
 
 From the precise realm of mathematics to the creative expanse of the arts. 
@@ -82,6 +85,7 @@ In programming, abstraction helps hide intricate code details, allowing develope
 This abstraction enables you to focus on your goals, like deploying and managing applications, without worrying about the underlying infrastructure. It’s like having a trusted partner handle the complicated details, so you can concentrate on what you do best.
 
 
+
 Putting it All Together with An Analogy
 Automatic Vehicle
 
@@ -103,3 +107,9 @@ or
 Do you want to just push a start button and go, where you just steer yourself in the right direction, accelerate when you need to and easily stop when you want? (Cloud Computing).
 
 This analogy emphasizes that the core complicated, technical components are not completely gone, they are simply hidden and managed by the cloud provider, simplifying your experience so you innovate and build faster.
+
+
+Concluding Remarks
+You will encounter the term abstraction frequently when reading documentation about cloud services, especially when it comes to newer, evolved releases. 
+
+Your task is not necessarily to take action, but rather to understand and appreciate what the cloud provider has abstracted away to simplify certain services for your benefit.
