@@ -1,5 +1,5 @@
-## Let’s Build
-### Set Up Your Personal AWS Account
+### Let’s Build
+# Set Up Your Personal AWS Account
 
 I know *(hope)* you’re eager to set something up, so in this practical, hands-on-tutorial, we will observe the ease of entry by setting up an AWS Root Account for Administration and Billing, an IAM Account for Development purposes and Multifactor Authentication for securing your accounts.
 
