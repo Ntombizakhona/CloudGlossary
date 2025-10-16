@@ -138,10 +138,14 @@ Once you get started with AWS, you might notice the naming system, and ask, <br>
 *“Why do some services start with AWS and others with Amazon.”*
 Answer: …because they *can*, **next.**
 
-*There are several theories around it and for every one of those theories you can find an exception.
+> *There are several theories around it and for every one of those theories you can find an exception.
 The one aspect that stands out the most is that most services with an Amazon prefix can function independently, without requiring other services to operate (consider Amazon S3, Amazon EC2, Amazon SQS, Amazon Quicksight, etc.).
-From a user’s perspective, these services can be used as standalone solutions. On the other hand, AWS-prefixed services often rely on additional services to function at all, serving as “building blocks” that AWS frequently mentions.
-For instance, AWS AppSync is a GraphQL API, but it requires integration with backend services or AWS Step Functions, which act as a control plane for other services. There are exceptions, such as AWS Lambda, which can now be used standalone (thanks to function URLs introduced in 2022), while others argue that Amazon API Gateway is largely useless without accompanying backend services. — Markus Ostertag (AWS Hero)*
+> 
+> From a user’s perspective, these services can be used as standalone solutions. On the other hand, AWS-prefixed services often rely on additional services to function at all, serving as “building blocks” that AWS frequently mentions.
+> 
+> For instance, AWS AppSync is a GraphQL API, but it requires integration with backend services or AWS Step Functions, which act as a control plane for other services. There are exceptions, such as AWS Lambda, which can now be used standalone (thanks to function URLs introduced in 2022), while others argue that Amazon API Gateway is largely useless without accompanying backend services.
+> 
+> — Markus Ostertag (AWS Hero)*
 
 I know it’ll be tempting to try to identify a pattern to simplify your learning, but don’t spend too much time attempting to decipher a pattern, okay? Instead, focus on understanding the function and purpose of each service. It’s like wondering why the sky is called the sky and the sea is called the sea, rather than simply appreciating and enjoying your day at the beach with your delicious ice cream.
 
