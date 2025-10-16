@@ -2,15 +2,15 @@
 ## A Cloud Glossaey for Beginners
 
 Once upon a time, I was talking about AWS…And the person I was talking to, looked lost, and asked me, 
-*“What is AWS?”* I looked at them, absolutely flabbergasted, 
+*“What is AWS?”* I looked at them, absolutely flabbergasted, <br> 
 **“Amazon Web Services!** How can you not know the biggest Cloud Computing Provider? How can you not?”
 
-Their next question, left me even more perplexed, 
-“What is Cloud Computing? Isn’t Amazon that ecommerce store or whatever?” they asked, completely unfazed by my apparent shock.
+Their next question, left me even more perplexed, <br>
+“What is Cloud Computing? Isn’t Amazon that ecommerce store or whatever?” they asked, completely unfazed by my apparent shock. <br>
 “Uhm, Amazon the Store and Amazon Web Services are kind of not the same thing. Anyways, Cloud Computing, is simply, the abstraction of —”
 I began to explain, but they cut me off. 
-“What is abstraction?” They asked.
-I stared at them, sighed, and whispered, “Never Mind.”
+“What is abstraction?” They asked.<br>
+I stared at them, sighed, and whispered, *“Never Mind.”* <br>
 “This Cloud stuff seems interesting, you should tell me more one day when you have time.”
 
 
@@ -20,7 +20,7 @@ That interaction lives in my memory rent free, because there would be many such 
 As someone who is obsessed with the cloud and often tries to get people to be as excited as I am, I am often shocked at how they really don’t know much about it, except as end users when they’re uploading their pictures to the cloud… but at least, here and there, there are people who genuinely want to know more about the cloud and build on it.
 
 From a seemingly simple term like *‘abstraction’* , when getting started with cloud computing, beginners and people who don’t come from a information technology or computing background are often overwhelmed with all the unfamiliar technical jargon and the terms that keep popping up when they commence their learning, which sometimes demotivates them and decelerates their Cloud Journey.
-They’d see a term like *‘asynchronous’* and decide, 
+They’d see a term like *‘asynchronous’* and decide,<br>
 “You know what? This cloud tech stuff is not for me. Bye.”
 
 A regular Cloud Developer or seasoned Tech Professional might not understand why such simple terms would scare beginners, but certain terms just don’t exist in everyday vocabulary and might seem too overwhelming for someone who wants to get started with the Cloud.
@@ -31,7 +31,7 @@ Therefore, over the next few days, weeks or months, however long it takes, I wil
 I am sure you have seen this description so many times now, but, it doesn’t hurt to continuously see it again and again. 
 According to NIST, the National Institute of Standards and Technology:
 
-Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+*Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.*
 
 Let’s delve deeper and simplify this definition:
 
