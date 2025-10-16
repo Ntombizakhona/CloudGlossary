@@ -44,4 +44,5 @@ I welcome any suggestions, corrections, or additions to the glossary.
 
 
 **Ntombizakhona Mabaso**
+<br>
 *Cloud Architect*
