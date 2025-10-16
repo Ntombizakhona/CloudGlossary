@@ -46,3 +46,5 @@ I welcome any suggestions, corrections, or additions to the glossary.
 **Ntombizakhona Mabaso**
 <br>
 *Cloud Architect*
+<br>
+[The Cloud Glossary on Medium] (https://ntombizakhona.medium.com/list/cloud-glossary-for-beginners-528956a3c181)
