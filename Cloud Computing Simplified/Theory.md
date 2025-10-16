@@ -1,5 +1,5 @@
 # Cloud Computing Simplified
-## A Cloud Glossaey for Beginners
+## A Cloud Glossary for Beginners
 
 Once upon a time, I was talking about AWS…And the person I was talking to, looked lost, and asked me, 
 *“What is AWS?”* I looked at them, absolutely flabbergasted, <br> 
@@ -31,7 +31,7 @@ Therefore, over the next few days, weeks or months, however long it takes, I wil
 I am sure you have seen this description so many times now, but, it doesn’t hurt to continuously see it again and again. 
 According to NIST, the National Institute of Standards and Technology:
 
-*Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.*
+> *Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.*
 
 Let’s delve deeper and simplify this definition:
 
