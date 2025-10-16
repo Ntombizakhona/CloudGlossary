@@ -148,7 +148,7 @@ I know it’ll be tempting to try to identify a pattern to simplify your learnin
 **At this point AWS needs to release an official statement so that we stop getting lost in the sauce of speculation.**
 
 
-## Putting it All Together with An Analogy
+### Putting it All Together with An Analogy
 # International Property Developer
 
 Imagine AWS as an International Property Developer in a futuristic Earth, where the cloud is land…
@@ -175,5 +175,5 @@ Imagine AWS as an International Property Developer in a futuristic Earth, where 
 *Fosters a community*: **AWS community: support forums, meetups, and shared knowledge.**
 
 
-## Concluding Remarks
+# Concluding Remarks
 I hope you do the hands-on tutorials, because active learning is essential in cloud computing.
