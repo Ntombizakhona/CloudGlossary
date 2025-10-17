@@ -94,6 +94,6 @@ Login with your Root User Account, and Remove All Permissions Associated with yo
 ### End of Tutorial
 
 
-#Building Tutorial Overview
+# Building Tutorial Overview
 We observed agility by rapidly provisioning a WordPress Site on Amazon LightSail. 
 ***Wasn’t that quick?***
