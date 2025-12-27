@@ -1,183 +1,261 @@
 # Amazon Web Services
-## Cloud Computing Provider
 
-AWS starts with **‘A’** because it’s the ideal cloud provider or platform to begin your cloud learning journey or migration to the cloud. 
-In fact, when it comes to anything cloud-related, start with ‘A’ — start with Amazon Web Services. <br>
-*I may sound like I’m advertising them, but fear not, it’s just an ethical, heart felt endorsement.*
+Cloud Computing Provider
+------------------------
 
+AWS starts with ‘A’ because it’s the ideal cloud provider or platform to begin your cloud learning journey or migration to the cloud. In fact, when it comes to anything cloud-related, start with ‘A’ — start with Amazon Web Services. I may sound like I’m advertising them, but fear not, it’s just an ethical, heart felt endorsement.
 
+**The Origins of AWS**
+----------------------
 
-## The Origins of AWS
 Every super hero has an origin story, and AWS is no different. Amazon Web Services, Inc was officially launched in 2006, by its parent company Amazon (.com).
-The first service that was officially launched by AWS is Simple Storage Service (S3), a simple storage service as the name implies, and then came compute power.
 
-**Did you know about it’s South African Origins in Cape Town?** 
-So, *Cape Town* is considered the birthplace of Amazon Elastic Compute Cloud (more affectionately known as EC2), the second service offered by AWS.
+The first service that was _officially_ launched by AWS is Simple Storage Service (S3), a simple storage service as the name implies, and then came compute power.
 
-This origin story traces back to the founding of the Amazon Elastic Compute Cloud (Amazon EC2) service in 2004, which is now regarded as one of the fundamental pieces of cloud computing technology. 
+Did you know about it’s South African Origins in Cape Town? So, Cape Town is considered the birthplace of Amazon Elastic Compute Cloud (more affectionately known as EC2), the second service offered by AWS.
 
-A passionate team of AWS developers and engineers in Cape Town, South Africa, created a single virtual server instance allowing South African customers to access practically unlimited cloud computing capacity without needing an on-premises data center. 
-It was a watershed moment for AWS, and it changed the trajectory of cloud computing worldwide.
+> This origin story traces back to the founding of the Amazon Elastic Compute Cloud ([Amazon EC2](https://aws.amazon.com/ec2/)) service in 2004, which is now regarded as one of the fundamental pieces of cloud computing technology. A passionate team of AWS developers and engineers in Cape Town, South Africa, created a single virtual server instance allowing South African customers to access practically unlimited cloud computing capacity without needing an on-premises data center. It was a watershed moment for AWS, and it changed the trajectory of cloud computing worldwide.
 
 …And then came databases, and then this, and then that…
 
+Categorical List Of Services Offered By AWS
+-------------------------------------------
 
-## Categorical List Of Services Offered By AWS
 ### Infrastructure and Computing Services
-**Compute:** Scalable processing power for applications and workloads.
 
-**Containers:** Portable, lightweight, and standalone application packaging.
+**Compute**: Scalable processing power for applications and workloads.
 
-**Storage:** Secure and durable data storage solutions.
+**Containers**: Portable, lightweight, and standalone application packaging.
 
+**Storage**: Secure and durable data storage solutions.
 
-## Data Management and Analytics
-**Database:** Organized data storage and management systems.
+### Data Management and Analytics
 
-**Analytics:** Insights and patterns extraction from data.
+**Database**: Organized data storage and management systems.
 
+**Analytics**: Insights and patterns extraction from data.
 
-## Security and Compliance
+### Security and Compliance
 
-**Security:** Protection from cyber threats and data breaches.
+**Security**: Protection from cyber threats and data breaches.
 
-**Identity & Compliance:** Access management and regulatory adherence.
+**Identity & Compliance**: Access management and regulatory adherence.
 
+### Application Development and Deployment
 
-## Application Development and Deployment
 **Application Integration:** Connecting apps and services seamlessly.
 
-**Front-end Web & Mobile:** Building user interfaces and mobile apps.
+**Front-end Web & Mobile**: Building user interfaces and mobile apps.
 
-**Game Development:** Creating immersive gaming experiences.
+**Game Development**: Creating immersive gaming experiences.
 
+### Emerging Technologies
 
-## Emerging Technologies
-**Blockchain:** Decentralized and secure data ledger technology.
+**Blockchain**: Decentralized and secure data ledger technology.
 
-**Machine Learning:** AI-powered predictive modeling and automation.
+**Machine Learning**: AI-powered predictive modeling and automation.
 
-**Quantum Technologies:** Next-gen computing and cryptography.
+**Quantum Technologies**: Next-gen computing and cryptography.
 
-**Robotics:** Autonomous systems and machine learning integration.
+**Robotics**: Autonomous systems and machine learning integration.
 
+### Networking and Content Delivery
 
-## Networking and Content Delivery
-**Networking:** Reliable and high-performance network infrastructure.
+**Networking**: Reliable and high-performance network infrastructure.
 
-**Content Delivery:** Fast and secure global content distribution.
+**Content Delivery**: Fast and secure global content distribution.
 
+### Satellite and Internet of Things
 
-## Satellite and Internet of Things
-**Satellite:** Space-based connectivity and data transmission.
+**Satellite**: Space-based connectivity and data transmission.
 
-**Internet of Things (IoT):** Interconnected devices and sensors.
+**Internet of Things (IoT)**: Interconnected devices and sensors.
 
+### Customer Support and Enablement
 
-## Customer Support and Enablement
+**Customer Enablement**: Empowering customers with knowledge and support.
 
-**Customer Enablement:** Empowering customers with knowledge and support.
+### Financial Management and Migration
 
+**Cloud Financial Management**: Optimizing cloud costs and resources.
 
-## Financial Management and Migration
-**Cloud Financial Management:** Optimizing cloud costs and resources.
+**Migration and Transfer**: Seamless transition to the cloud.
 
-**Migration and Transfer:** Seamless transition to the cloud.
+AWS initially launched with only Elastic Compute Cloud and Simple Storage (EC2 and S3, the bedrock of AWS), but have since expanded to a highly available global infrastructure comprising hundreds of services…
 
+The Global Infrastructure of AWS
+--------------------------------
 
-*AWS initially launched with only Elastic Compute Cloud and Simple Storage (EC2 and S3, the bedrock of AWS), but have since expanded to a highly available global infrastructure comprising hundreds of services…*
+_The_ cloud pioneer, AWS, currently dominates the global cloud landscape with the most regions, availability zones and edge locations, providing high availability and disaster recovery for their consumers and clients.
 
+### Regions
 
-# The Global Infrastructure of AWS
-The cloud pioneer, AWS, currently dominates the global cloud landscape with the most regions, availability zones and edge locations, providing high availability and disaster recovery for their consumers and clients.
-
-## Regions
 This vast global network is divided into physical, independent regions, each containing multiple availability zones (AZs).
 
-## Availability Zones
+### Availability Zones
+
 These AZs are essentially clusters of data centers that are interconnected and redundant, providing reliable and fault-tolerant infrastructure.
 
-## Edge Locations
+### Edge Location
+
 Additionally, AWS has edge locations scattered across the globe, which serve as strategic caching points for content, reducing latency and accelerating delivery for applications that require ultra-fast performance.
 
-*This tiered infrastructure enables AWS to offer a robust and responsive platform for applications and workloads of all kinds.*
+This tiered infrastructure enables AWS to offer a robust and responsive platform for applications and workloads of all kinds.
 
+Top Companies That Use AWS
+--------------------------
 
-# Top Companies That Use AWS
 Here are some popular companies that leverage the global infrastructure of AWS and deliver seamless content and services to their customers.
 
-## Netflix
+### **Netflix**
+
 Netflix relies on AWS to power its streaming service, handling over 250 million hours of video content daily. AWS enables Netflix to scale rapidly, ensuring seamless streaming and personalized recommendations for its global audience.
 
-## Pinterest
+### **Pinterest**
+
 Pinterest utilizes AWS to manage its vast image and video repository, leveraging machine learning and analytics to enhance user experience. AWS helps Pinterest handle massive traffic spikes and provides real-time insights to improve content discovery and engagement.
 
-## Uber
+### **Uber**
+
 Uber depends on AWS to fuel its ride-sharing platform, processing millions of requests and coordinating rides in real-time. AWS enables Uber to scale its infrastructure dynamically, ensuring reliable and efficient services for its drivers and passengers worldwide.
 
-## Airbnb
+### **Airbnb**
+
 Airbnb leverages AWS to power its global accommodation marketplace, handling millions of listings and bookings. AWS enables Airbnb to provide personalized search results, scalable infrastructure, and secure payment processing, ensuring a seamless experience for hosts and guests alike.
 
-## Spotify
+### **Spotify**
+
 Spotify uses AWS to power its music streaming service, delivering millions of songs and podcasts to users worldwide. AWS enables Spotify to handle massive traffic, provide personalized recommendations, and scale its infrastructure dynamically, ensuring a seamless and enjoyable listening experience.
 
+Additional Advantages of Starting with AWS
+------------------------------------------
 
-# Additional Advantages of Starting with AWS
-## Community Support
+### **Community Support**
+
 AWS boasts the largest and most active community, both online and offline, ensuring you’ll have a comprehensive support network throughout your cloud journey.
 
-## Comprehensive Learning Resources
+### **Comprehensive Learning Resources**
+
 AWS offers a diverse range of learning materials, catering to various learning styles, including bite-sized videos, step-by-step tutorials, workshops, detailed documentation, gamified learning, and informative blogs. This wealth of resources guarantees you’ll find a learning approach that suits your needs.
 
-## Diverse Career Opportunities
+### **Diverse Career Opportunities**
+
 The AWS cloud ecosystem presents a wide range of career paths, from cloud development and engineering to independent contracting, freelancing, tutoring, technical writing, and more.
+
 The possibilities are endless, and your career aspirations are within reach.
 
-# Why Do Some Services Start With AWS and Others With Amazon?
-Once you get started with AWS, you might notice the naming system, and ask, <br> 
-*“Why do some services start with AWS and others with Amazon.”*
-Answer: …because they *can*, **next.**
+Why Do Some Services Start With AWS and Others With Amazon?
+-----------------------------------------------------------
 
-> *There are several theories around it and for every one of those theories you can find an exception.
-The one aspect that stands out the most is that most services with an Amazon prefix can function independently, without requiring other services to operate (consider Amazon S3, Amazon EC2, Amazon SQS, Amazon Quicksight, etc.).
+Once you get started with AWS, you might notice the naming system, and ask, “Why do some services start with AWS and others with Amazon.”
+
+Answer: …**because they can**, _next_.
+
+> There are several theories around it and for every one of those theories you can find an exception.
+> 
+> The one aspect that stands out the most is that most services with an Amazon prefix can function independently, without requiring other services to operate (consider Amazon S3, Amazon EC2, Amazon SQS, Amazon Quicksight, etc.).
 > 
 > From a user’s perspective, these services can be used as standalone solutions. On the other hand, AWS-prefixed services often rely on additional services to function at all, serving as “building blocks” that AWS frequently mentions.
 > 
-> For instance, AWS AppSync is a GraphQL API, but it requires integration with backend services or AWS Step Functions, which act as a control plane for other services. There are exceptions, such as AWS Lambda, which can now be used standalone (thanks to function URLs introduced in 2022), while others argue that Amazon API Gateway is largely useless without accompanying backend services.
-> 
-> — Markus Ostertag (AWS Hero)*
+> For instance, AWS AppSync is a GraphQL API, but it requires integration with backend services or AWS Step Functions, which act as a control plane for other services. There are exceptions, such as AWS Lambda, which can now be used standalone (thanks to function URLs introduced in 2022), while others argue that Amazon API Gateway is largely useless without accompanying backend services. — **_Markus Ostertag_** _(AWS Community Hero)_
 
 I know it’ll be tempting to try to identify a pattern to simplify your learning, but don’t spend too much time attempting to decipher a pattern, okay? Instead, focus on understanding the function and purpose of each service. It’s like wondering why the sky is called the sky and the sea is called the sea, rather than simply appreciating and enjoying your day at the beach with your delicious ice cream.
 
-**At this point AWS needs to release an official statement so that we stop getting lost in the sauce of speculation.**
-
+At this point AWS needs to release an _official_ statement so that we stop getting lost in the sauce of speculation.
 
 ### Putting it All Together with An Analogy
-# International Property Developer
 
-Imagine AWS as an International Property Developer in a futuristic Earth, where the cloud is land…
-*Like a Property Developer…*: **AWS**
+International Property Developer
+--------------------------------
 
-*Acquires land in multiple locations worldwide*: **AWS has data centers and infrastructure in over 25 regions globally.**
+Imagine AWS as an **international property developer** in a futuristic version of Earth, where the _cloud_ is the land.
 
-*Builds properties*: **AWS builds cloud services like EC2, S3, etc., in each location.**
+Like a global real estate giant, AWS acquires prime land across the world, with data centers and infrastructure in more than 25 regions. On this land, it builds fully equipped properties : cloud services such as EC2, S3, and many others, then manages and maintains them so tenants never have to worry about upkeep.
 
-*Manages and maintains the properties*: **AWS manages and maintains the cloud infrastructure) across the globe.**
+Customers can rent these properties on flexible, pay‑as‑you‑go lease terms, using only what they need, when they need it. High‑speed transportation routes connect all locations, representing AWS’s global network and edge infrastructure that enables fast, reliable data transfer.
 
-*Rents out properties to tenants*: **AWS provides cloud services to customers) in different regions**
+Tenants can easily expand, scale, or even move their operations between properties, thanks to AWS’s globally consistent infrastructure. AWS continuously develops new buildings and services, making the portfolio larger and more advanced over time.
 
-*Connects properties with high-speed transportation routes*: **(AWS’s global network and edge locations enable fast data transfer)**
+Best of all, the spaces are move‑in ready: anyone can sign up and start immediately while a thriving community of builders, forums, and meetups helps tenants learn, collaborate, and succeed.
 
-*Allows tenants to easily expand or move their operations between properties*: **AWS’s global infrastructure enables easy scalability and migration**
+Summary
+-------
 
-*Continuously develops and expands the property portfolio*: **AWS innovates and adds new services.**
+In summary, Amazon’s quest for a scalable infrastructure solution led to the development of AWS, which was initially designed to support their own e-commerce platform but eventually evolved into a robust cloud computing platform shared with merchants and the global community, and me, and you…
 
-*Offers flexible lease terms*: **Consumption-based model: pay-only-for-what-you-use, pay-as-you-go.**
+And as you have discovered, getting started with AWS is rather quite simple.
 
-*Provides move-in ready spaces, all you have to do is show up*: **Ease of entry: easy to sign up and start using services.**
+### Prerequisites
 
-*Fosters a community*: **AWS community: support forums, meetups, and shared knowledge.**
+You’re fascinated by Amazon Web Services (AWS) and eager to explore its capabilities, with a desire to learn more about cloud computing.
 
+### Theory
 
-# Concluding Remarks
-I hope you do the hands-on tutorials, because active learning is essential in cloud computing.
+1.  The Origins of AWS
+2.  Categorical List of Services Offered By AWS
+3.  The Global Infrastructure of AWS
+4.  Additional Advantages of Starting with AWS
+5.  AWS Naming System
+6.  Putting It All Together with an Analogy: International Property Developer
+
+### Hands-On
+
+1.  Create an AWS Account
+2.  Create an IAM Account
+3.  Set Up MultiFactor Authentication (MFA)
+
+### Cloud Glossary Terms Mentioned in this Article
+
+1.  [Analytics](https://medium.com/@ntombizakhona/analytics-dd6e58eea952)
+2.  Availability Zones
+3.  Cloud Provider
+4.  Compute
+5.  Containers
+6.  Content Delivery
+7.  Database
+8.  Data Centers
+9.  Edge Location
+10.  Identity And Access Management
+11.  Migration
+12.  Networking
+13.  Regions
+14.  Security
+15.  Storage
+
+Additional Resources
+--------------------
+
+### [The Story of AWS](https://medium.com/@furrier/original-content-the-story-of-aws-and-andy-jassys-trillion-dollar-baby-4e8a35fd7ed)
+
+> Amazon Web Services wasn’t any one person’s single idea. No proverbial apple fell on some Newton’s head, no Henry Ford or Steve Jobs-like character had a brainstorm. Instead, it rather emerged. The idea grew organically out of the company’s frustration with its ability to launch new projects and support customers.
+
+### [The Origins of AWS](https://aws.amazon.com/about-aws/our-origins/)
+
+> That’s why we launched Amazon Web Services in the spring of 2006, to rethink IT infrastructure completely, so that anyone — even a kid in a college dorm room — could access the same powerful technology as the world’s largest and most sophisticated companies.
+
+### [The South African Origins of AWS](https://qz.com/africa/1969651/the-south-african-origins-of-andy-jassys-amazon-web-services)
+
+> AWS’s story is incomplete without acknowledging the legendary role of an independent team of engineers and developers in Cape Town. This [South African team was assembled and led by Chris Pinkham](https://www.balancingact-africa.com/news/telecoms-en/7193/amazoncom-launches-software-development-centre-in-south-africa), a South African who had [proposed a novel web infrastructure service for Amazon](https://www.zdnet.com/google-amp/article/how-amazon-exposed-its-guts-the-history-of-awss-ec2/) as the engineer in charge of its global infrastructure.
+
+Alternatives to Reading
+-----------------------
+
+### [Listen on Spotify](https://open.spotify.com/episode/1q3If5gPgyF366A2jKRcvy?si=Xjtlfk8zRjO_gG38iDHG_g&nd=1&dlsi=be51df148e42456d)
+
+> [_Cloud Computing Simplified: A Cloud Glossary for Beginners_](https://open.spotify.com/show/2cjYlSlpvIRxLNFpT4jflP)
+> 
+> **_Episode Name_**_: Amazon Web Services_
+> 
+> **_By:_** _Ntombizakhona Mabaso_
+
+Concluding Remarks
+------------------
+
+The Impact of Artificial Intelligence on Amazon Web Services
+------------------------------------------------------------
+
+In conclusion, Artificial Intelligence represents the next major evolutionary chapter for Amazon Web Services, building naturally on the scalable, global foundation that AWS has spent nearly two decades perfecting.
+
+Just as EC2 and S3 democratized access to compute and storage, AI and Machine Learning services on AWS are democratizing intelligence: enabling startups, enterprises, and individual developers alike to build smarter, more adaptive, and more automated solutions without prohibitive upfront investment.
+
+By tightly integrating AI across its vast portfolio of services, AWS is not merely offering tools, but embedding intelligence into the very fabric of the cloud, reinforcing its role as the world’s leading “digital property developer” and shaping how innovation will be built, deployed, and scaled in the years to come!
