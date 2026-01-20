@@ -1,4 +1,5 @@
-# Amazon Web Services
+Amazon Web Services
+===================
 
 Cloud Computing Provider
 ------------------------
@@ -201,8 +202,13 @@ You’re fascinated by Amazon Web Services (AWS) and eager to explore its capabi
 ### Hands-On
 
 1.  Create an AWS Account
-2.  Create an IAM Account
-3.  Set Up MultiFactor Authentication (MFA)
+2.  Setup Your IAM User Account: Create an IAM (Identity And Access Management) User
+3.  Enable Multifactor Authentication (MFA)
+4.  Setup Cost Alerts With AWS Budgets
+5.  Launch A Server With Amazon EC2
+6.  Create A Database With Amazon RDS
+7.  Build A Serverless App With Lambda
+8.  Prompt An AI Model with Amazon Bedrock
 
 ### Cloud Glossary Terms Mentioned in this Article
 
@@ -259,6 +265,47 @@ In conclusion, Artificial Intelligence represents the next major evolutionary ch
 Just as EC2 and S3 democratized access to compute and storage, AI and Machine Learning services on AWS are democratizing intelligence: enabling startups, enterprises, and individual developers alike to build smarter, more adaptive, and more automated solutions without prohibitive upfront investment.
 
 By tightly integrating AI across its vast portfolio of services, AWS is not merely offering tools, but embedding intelligence into the very fabric of the cloud, reinforcing its role as the world’s leading “digital property developer” and shaping how innovation will be built, deployed, and scaled in the years to come!
+
+
+VERSION CONTROL
+---------------
+
+Originally Published
+--------------------
+
+**21 June 2024**
+
+Updates
+-------
+
+**16 June 2025**
+
+1.  Adds Line Breaks
+2.  Adds ‘Cloud Glossary Terms Mentioned in this Article’ Subheading Under Summary
+3.  Adds ‘Alternatives To Reading’ Heading
+4.  Adds Podcast Link
+
+> I added line breaks and converted some of the bold text to Headings and Subheadings to enhance readability, as it is quite a long article.
+> 
+> I added ‘Cloud Glossary Terms Mentioned in this Article’ so that the beginner can navigate the terms, especially after I have completed the Cloud Glossary.
+> 
+> I added ‘Alternatives To Reading’ so that the reader can consume the content in other formats such as audio or video, when such content becomes available.
+> 
+> – Ntombizakhona
+
+**27 December 2025**
+
+1.  Condensed the Analogy into Paragraph.
+2.  Added Link to Spotify Episode under Alternatives to Reading
+3.  Updated the Step by Step Guide for Account Creation
+4.  Adds ‘The Impact of Artificial Intelligence on Amazon Web Services Under Concluding Remarks
+5.  Adds An AI Genereated Image to Enhance the Article
+
+> I updated the tutorial for creating an AWS Account, to reflect the new Free Account option.
+
+**20 January 2025**
+
+1.  Updated the Tutorial to add Activities to redeem the credits
 
 # The Original
 
