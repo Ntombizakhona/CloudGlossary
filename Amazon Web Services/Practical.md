@@ -1,4 +1,4 @@
-### Let’s Build
+### 🏗️ Let’s Build
 
 Set Up Your Personal AWS Account
 --------------------------------
@@ -260,15 +260,15 @@ You should see your IAM Username there.
 
 _Now here’s where it gets interesting. AWS wants you to actually try their services, so they’ll give you $20 for each of these 5 activities. Think of it as a guided tour of Cloud Computing, except you get paid to take it._
 
-**Activity 01:** Virtual Servers **→** EC2
+**Activity 01:** Cloud Finance **→** Budgets
 
-**Activity 02:** Databases **→** RDS
+**Activity 02:** Compute **→** EC2
 
-**Activity 03:** Serverless **→** Lambda
+**Activity 03:** Databases **→** RDS
 
-**Activity 04:** AI **→** Bedrock
+**Activity 04:** Serverless **→** Lambda
 
-**Activity 05:** Cloud Finance **→** Budgets
+**Activity 05:** AI **→** Bedrock
 
 _Make sure you are in the North Virginia Region_ (**N. Virginia** ▼)
 
@@ -547,10 +547,12 @@ $20 × 5 activities = **$100** additional
 
 💸 **Total: $200 in credits**
 
+### 🏁End of Building Tutorial 🏁
+
 ### Clean Up Procedure
 
-Terminate Resources
--------------------
+⚠️Terminate Resources⚠️
+-----------------------
 
 1.  Terminate instance to avoid charges
 
@@ -563,6 +565,10 @@ Actions → **Delete**
 3. Select your function
 
 Actions → **Delete**
+
+4. Select your IAM User and Remove the AdministratorAccess permisson.
+
+### ⛔ End of Cleaning Up Protocol ⛔
 
 Building Tutorial Overview
 --------------------------
@@ -578,6 +584,7 @@ Building on this secure foundation, we then gained practical experience with fiv
 Each activity not only earned us $20 in AWS credits but also provided hands-on experience with essential cloud computing concepts. From the initial $100 signup bonus to the $100 earned through practical learning, we achieved the full $200 in free tier credits while building a comprehensive understanding of AWS services.
 
 By understanding and utilizing these security components alongside practical service implementation, you can effectively manage access to your cloud resources, ensure the security of your account, and gain real-world experience with the core services that power modern cloud applications. This combination of security best practices and hands-on learning creates a solid foundation for your cloud computing journey.
+
 
 # The Original
 
