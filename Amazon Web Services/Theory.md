@@ -271,7 +271,6 @@ Just as EC2 and S3 democratized access to compute and storage, AI and Machine Le
 
 By tightly integrating AI across its vast portfolio of services, AWS is not merely offering tools, but embedding intelligence into the very fabric of the cloud, reinforcing its role as the world’s leading “digital property developer” and shaping how innovation will be built, deployed, and scaled in the years to come!
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*oBNevgw9KGd2x2F18-Nqzw.png)
 
 Version Control
 ---------------
