@@ -1,14 +1,17 @@
 #!/bin/bash
-
-# Update and install dependencies
+# 📦 Update system packages (works on both AL2 and AL2023)
 sudo yum update -y
-sudo yum install -y python3
+
+# 🐍 Install Python3 and pip (AL2023 compatible)
+sudo yum install -y python3 python3-pip
+
+# 🔧 Install Flask using pip3
 sudo pip3 install flask
 
-# Create a directory for the app
-mkdir /home/ec2-user/hello-world
+# 📁 Create a directory for the app
+mkdir -p /home/ec2-user/hello-world
 
-# Create the Flask application
+# 🐍 Create the Flask application
 cat > /home/ec2-user/hello-world/app.py <<EOF
 from flask import Flask
 app = Flask(__name__)
@@ -21,5 +24,6 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80)
 EOF
 
-# Run the Flask app
-nohup python3 /home/ec2-user/hello-world/app.py &
+# ▶️ Run the Flask app in background
+cd /home/ec2-user/hello-world
+nohup sudo python3 app.py > app.log 2>&1 &
