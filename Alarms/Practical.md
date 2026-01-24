@@ -1,54 +1,77 @@
-### Let’s Build
-# Setting Up a Billing Alarm on AWS
+### 🏗️ Let’s Build
 
-I know *(hope)* you’re eager to set something up. In this practical, hands-on-tutorial, we will demonstrate Alarms with Amazon CloudWatch by setting up a billing alarm that will alert you when usage or spending surpasses your budgeted limit.
+Setting Up a Billing Alarm on AWS
+---------------------------------
 
-## Prerequisites
-1. An AWS Administrative Account
+I know _(hope)_ you’re eager to set something up.
 
-## Setting Up A Billing Alarm on AWS
-A billing alarm is a feature in AWS that notifies you when your spending crosses a predefined threshold. It provides real-time insights into your AWS costs, allowing you to take action before your budget spirals out of control.
-Since billing is an administrative task, and we won’t be building anything in this tutorial, you don’t need to use your IAM Account, but you should. You should always build with your IAM User.
+In this practical, hands-on-tutorial, we will:
 
+**Set up a billing alarm that will alert you when usage or spending surpasses your budgeted limit.**
 
-**Step 01:** Log in to the AWS Management Console.
+### Prerequisites
 
+1.  [**An AWS Administrative Account**](https://medium.com/@ntombizakhona/amazon-web-services-a8e57a9c6084)
 
-**Step 02:** Navigate to Billing and Cost Management.
+### Setting Up A Billing Alarm on AWS
 
+_A billing alarm is an AWS feature that automatically notifies you when your spending crosses a predefined threshold. It provides real-time visibility into your AWS costs, enabling you to take proactive action before expenses exceed your budget._
 
-**Step 03:** Under Budgets and Planning: Select Budgets.
+**Which Account Should You Use?**
 
+Since billing is an administrative task and this tutorial doesn’t involve building infrastructure, you _could_ technically use your root account. However, best practice is to always use your IAM user whenever possible, even for following tutorials.
 
-**Step 04:** Click Create budget.
+Here’s the recommended approach:
 
+**IAM User:** Use for daily tasks, building resources, and following tutorials
 
-**Step 05:** Budget setup: Use a template (simplified).
+**Root User:** Reserve exclusively for critical billing and administrative tasks that require root access
 
+By consistently working with your IAM user, you’ll develop secure habits that protect your AWS environment in the long run.
 
-**Step 06:** Templates — new: Zero spend budget
+**Step 01: Access Billing Console**
 
+Select **Billing and Cost Management**
 
-**Step 07:** Budget name: My Zero-Spend Budget
+**Step 02:** **Navigate to Budgets**
 
+Under **Budgets and Planning,** click **Budgets**
 
-**Step 08:** Email recipients: Your email address
+Click **Create budget**
 
+**Step 03: Choose budget type**
 
-**Step 09:** Click Create budget.
+**Budget setup:** Use a template (simplified)
 
+**Templates — new:** Zero spend budget
 
-**Step 10:** Navigate to CloudWatch by typing CloudWatch in the Search bar.
+**Budget name:** My Zero-Spend Budget
 
+**Email Recipients:** Your Email Address
 
-**Step 11:** Click on Alarms.
+Click **Create budget**
 
+✅**Green banner:** Your budget My Zero-Spend Budget has been created successfully.
 
-**Step 12:** You should see the Alarm you just created right there.
+### 🏁End of Building Tutorial 🏁
 
-### End of Tutorial
+Building Tutorial Overview
+--------------------------
 
+In this hands-on tutorial, we created a zero-spend budget alarm in AWS that monitors your account for any charges beyond the free tier.
 
+This budget automatically sends email notifications when your AWS spending exceeds $0.01, helping you catch unexpected costs early and avoid bill shock.
 
-# Building Tutorial Overview
-Setting up a Billing Alarm that will alert you when you are no longer using the free tier, and your spend is beyond $0.01.
+The setup uses AWS’s simplified budget template, making it quick to configure essential cost monitoring for your cloud resources.
+
+---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Alarms]([https://ntombizakhona.medium.com/amazon-web-services-a8e57a9c6084](https://ntombizakhona.medium.com/alarms-656943304f1b?postPublishedType=repub))
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**08 December 2024**
