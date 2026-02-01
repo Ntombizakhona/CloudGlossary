@@ -8,26 +8,26 @@ Turning Data Into Decisions
 
 We are living in an unprecedented era of digital transformation. Every day, devices like routers, smartphones, smartwatches, laptops, AR headsets, TVs, and more are quietly working in the background: capturing an enormous volume of data.
 
-But it’s not just about how much data is collected (_volume_). It’s about its _variety_ (from videos and texts to GPS signals and social media posts), its _velocity_ (how fast it’s coming in), and its _veracity_ (how reliable and accurate it is). These are the famous “4 Vs” of data – and they help us understand what makes data both powerful and challenging.
+But it’s not just about how much data is collected (_volume_). It’s about its _variety_ (from videos and texts to GPS signals and social media posts), its _velocity_ (how fast it’s coming in), and its _veracity_ (how reliable and accurate it is). These are the famous “4 Vs” of data, and they help us understand what makes data both powerful and challenging.
 
 Analytics in the Cloud
 ----------------------
 
-Think of your business like a lemonade stand. You notice trends – how many cups you sell, what flavors people like, and how weather affects foot traffic. Now imagine having tools that not only track these patterns but also tell you the best time to prepare more lemonade, or suggest a new flavor before the season starts.
+Think of your business like a lemonade stand. You notice trends: how many cups you sell, what flavours people like, and how weather affects foot traffic. Now imagine having tools that not only track these patterns but also tell you the best time to prepare more lemonade, or suggest a new flavour before the season starts.
 
-That’s exactly what cloud analytics does – at scale. It uses cloud-based tools to collect, clean, and analyze massive amounts of data to generate meaningful insights.
+That’s exactly what cloud analytics does at scale. It uses cloud-based tools to collect, clean, and analyse massive amounts of data to generate meaningful insights.
 
 Here’s how it works:
 
 ### 1. Gather Data
 
-Cloud platforms pull in data from multiple sources: apps, websites, IoT sensors – reflecting the _variety_ and _volume_ of today’s data streams.
+Cloud platforms pull in data from multiple sources: apps, websites, IoT sensors, reflecting the _variety_ and _volume_ of today’s data streams.
 
 ### 2. Process Data
 
-The data is cleaned, validated (_veracity_), and organized – sometimes in real time (_velocity_).
+The data is cleaned, validated (_veracity_), and organized, sometimes in real time (_velocity_).
 
-### 3. Analyze Data
+### 3. Analyse Data
 
 This is where it gets interesting. Analysis can be:
 
@@ -55,7 +55,7 @@ Using the cloud for analytics gives businesses access to powerful tools without 
 
 ### Scalability
 
-Whether you’re analyzing data from a small team or a global network, the cloud can scale up or down to meet your needs.
+Whether you’re analysing data from a small team or a global network, the cloud can scale up or down to meet your needs.
 
 ### Cost-Effectiveness
 
@@ -80,8 +80,7 @@ The Chef
 
 Think of data as the ingredients in a kitchen pantry. Without a recipe or tools, these ingredients have potential but lack direction. Analytics acts like a chef, taking raw ingredients (data), measuring and preparing them (cleaning and organizing), and turning them into a delicious dish (actionable insights). Just as a well-prepared meal satisfies and nourishes, good analytics helps businesses thrive by delivering clear, valuable insights.
 
-_Analytics transforms raw data into valuable, actionable insights that help businesses thrive. Whether it’s predicting customer behavior, diagnosing operational issues, or cognitively adapting to new trends, cloud analytics empowers organizations to move smarter and faster._
-
+_Analytics transforms raw data into valuable, actionable insights that help businesses thrive. Whether it’s predicting customer behaviour, diagnosing operational issues, or cognitively adapting to new trends, cloud analytics empowers organizations to move smarter and faster._
 
 Additional Resources
 --------------------
@@ -94,12 +93,25 @@ Additional Resources
 
 > AWS offers a comprehensive set of capabilities for every analytics workload. From data processing and SQL analytics to streaming, search, and business intelligence, AWS delivers unmatched price performance and scalability with governance built in
 
-### [What is OpenSearch?](https://aws.amazon.com/what-is/opensearch/)
+### [Amazon SageMaker Unified Studio?](http://aws.amazon.com/sagemaker/unified-studio/)
 
-> OpenSearch is a distributed, community-driven, Apache 2.0-licensed, 100% open-source search and analytics suite used for a broad set of use cases like real-time application monitoring, log analytics, and website search. OpenSearch provides a highly scalable system for providing fast access and response to large volumes of data with an integrated visualization tool, OpenSearch Dashboards, that makes it easy for users to explore their data
+> Amazon SageMaker Unified Studio is a single data and AI development environment where you can find and access all of the data in your organization and act on it using the best tools across any use case.
+> 
+> SageMaker Unified Studio brings together the functionality and tools from existing AWS Analytics and AI/ML services, including Amazon EMR, AWS Glue, Amazon Athena, Amazon Redshift, Amazon Bedrock, and Amazon SageMaker AI.
+> 
+> From within the unified studio, you can ﬁnd, access, and query data and AI assets across your organization, then work in projects to securely build and share analytics and AI artifacts, including data, models, and generative AI applications.
+
 
 Summary
 -------
+
+This article explored the world of cloud analytics, demonstrating how modern organizations can transform raw data into actionable insights using powerful cloud-based tools.
+
+1.  **Data is everywhere** but without analytics, it’s just noise
+2.  Cloud analytics democratizes access to powerful analytical tools
+3.  AWS SageMaker Unified Studio provides a modern, integrated environment for data science and analytics
+4.  Visualization transforms complex data into understandable insights
+5.  AI integration is accelerating the evolution of analytics capabilities
 
 ### Prerequisites
 
@@ -115,28 +127,75 @@ Curiosity About Getting Started With Analytics on The Cloud
 ### Hands On
 
 1.  Add Permissions to Your AWS IAM Account
-2.  Create OpenSearch Serverless Collection
-3.  Create Dashboard
-4.  Create Index
-5.  Create Index Pattern
-6.  Create Word Cloud Visualisation
-7.  Explore OpenSearch Sample Data
 
 ### Cloud Glossary Terms Mentioned In This Article
 
-1.  Scalability
+1.  [AI](http://medium.com/@ntombizakhona/artificial-intelligence-5028f826c856)
+2.  Data
+3.  Integration
+4.  Pay-as-you-go
+5.  ML
+6.  Scalability
+
+Alternatives to Reading
+-----------------------
+
+### [Listen on Spotify](https://open.spotify.com/episode/1q3If5gPgyF366A2jKRcvy?si=Xjtlfk8zRjO_gG38iDHG_g&nd=1&dlsi=be51df148e42456d)
+
+> [_Cloud Computing Simplified: A Cloud Glossary for Beginners_](https://open.spotify.com/show/2cjYlSlpvIRxLNFpT4jflP)
+> 
+> **_Episode Name_**_: Analytics_
+> 
+> **_By:_** _Ntombizakhona Mabaso_
 
 Concluding Remarks
 ------------------
 
-Cloud analytics opens a world of possibilities, turning data into a strategic advantage. Whether you’re just starting with data analysis or looking to optimize existing processes, AWS and other platforms provide the tools you need to succeed. Embrace the chef’s role – transform your raw data into recipes for success!
+As AI continues to evolve, we can expect even tighter integration between analytics platforms and intelligent systems. Generative AI is already beginning to transform how we create visualizations, write queries, and interpret results.
+
+AWS SageMaker Unified Studio represents this future, a unified environment where data engineering, analytics, and AI/ML come together seamlessly.
+
+The journey from raw data to actionable insights has never been more exciting. By combining cloud analytics with AI capabilities, organizations of all sizes can unlock unprecedented value from their data assets. Whether you’re building word clouds or training complex neural networks, the tools and platforms are ready, the only limit is your imagination.
+
+The Impact of Artificial Intelligence on Analytics
+--------------------------------------------------
+
+As we’ve explored throughout this article, the intersection of analytics and cloud computing has transformed how organizations derive value from their data. But perhaps no force is reshaping this landscape more profoundly than **Artificial Intelligence (AI).**
+
+### Automated Insights Discovery
+
+AI-powered analytics tools can now automatically identify patterns, anomalies, and trends that would take human analysts significantly longer to uncover. Machine learning algorithms continuously learn from data, improving their accuracy and relevance over time.
+
+### Natural Language Processing (NLP)
+
+Modern analytics platforms increasingly incorporate NLP capabilities, allowing users to query data using plain English questions rather than complex SQL statements. This democratizes data access, enabling business users without technical backgrounds to extract insights independently.
+
+### Predictive and Prescriptive Analytics at Scale
+
+While traditional analytics focused on understanding what happened (descriptive) and why (diagnostic), AI supercharges predictive analytics (what will happen) and enables prescriptive analytics (what should we do). These capabilities help organizations move from reactive to proactive decision-making.
+
+### Real-Time Intelligence
+
+AI enables the processing and analysis of streaming data in real-time, allowing businesses to respond to opportunities and threats as they emerge. From fraud detection to personalized recommendations, AI-driven real-time analytics is becoming essential.
+
 
 Version Control
 ---------------
 
 ### Originally Published
 
-22 June 2025
+**22 June 2025**
+
+### **Updates**
+
+**01 February 2026**
+
+1.  Updates Building Tutorial from OpenSearch to Sagemaker
+2.  Adds Alternatives to Readinf
+3.  Adds ‘The Impact of Artificial Intelligence on Analytics Under Concluding Remarks
+4.  Adds AI Generated Images to Enhance the Article
+
+---
 
 
 # The Original
