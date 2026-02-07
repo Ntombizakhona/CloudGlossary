@@ -342,11 +342,21 @@ AI can generate mod_rewrite rules, proxy configurations, and security headers ba
 
 **_While AI enhances how we manage and secure Apache servers, the fundamental reliability and flexibility that made Apache successful will continue to be relevant. AI is an amplifier, not a replacement, it makes skilled administrators more effective while lowering the barrier for newcomers to deploy and manage web servers successfully._**
 
-![Apache HTTP — Open Source Web Server](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XUXUBWOobY5Ws51H2wstNA@2x.jpeg)
 
 Version Control
 ---------------
 
 ### Originally Published
 
+**07 February 2026**
+
+---
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Apache HTTP](https://ntombizakhona.medium.com/apache-http-8404a1b11d26)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
 **07 February 2026**
