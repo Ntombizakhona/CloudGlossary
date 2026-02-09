@@ -233,3 +233,15 @@ By completing this tutorial, you have:
 5.  Understood how cloud services work together
 
 This is **exactly how production APIs are born,** just at a beginner-friendly scale.
+
+---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Application Programming Interaces](https://ntombizakhona.medium.com/application-programming-interfaces-228d318a11bf?postPublishedType=initial)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**09 February 2026**
