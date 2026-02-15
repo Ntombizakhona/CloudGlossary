@@ -190,3 +190,15 @@ Version Control
 ### Originally Published
 
 **15 February 2026**
+
+---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Architecture Diagrams](https://medium.com/@ntombizakhona/architecture-diagrams-9de5a563d608)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**15 February 2026**
