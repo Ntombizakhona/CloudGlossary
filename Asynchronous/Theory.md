@@ -423,3 +423,15 @@ Version Control
 
 **18 March 2026**
 
+---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Asynchronous](https://ntombizakhona.medium.com/asynchronous-4acaa0158820)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**18 March 2026**
+
