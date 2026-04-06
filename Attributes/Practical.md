@@ -310,7 +310,7 @@ By the end, you’ll have not only launched your first cloud resource but also s
 
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
 <br>
-**Article Link:** [](https://ntombizakhona.medium.com/attributes-de42fc2b93b2?postPublishedType=repub)
+**Article Link:** [Attributes](https://ntombizakhona.medium.com/attributes-de42fc2b93b2?postPublishedType=repub)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
 <br>
