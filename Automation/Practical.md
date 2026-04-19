@@ -11,7 +11,7 @@ _This will demonstrate Automation by provisioning an S3 Bucket without using the
 
 ### Prerequisites
 
-1.  [**An AWS Administrative Account that has an Alias Account Configured (IAM)**](https://medium.com/@ntombizakhona/amazon-web-services-a8e57a9c6084)
+1.  [**An AWS Administrative Account**](https://medium.com/authentication-fb0d207899a1)
 2.  [**Multisession Support Enabled**](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/multisession.html)
 3.  **A Basic Text Editor**
 
@@ -19,7 +19,7 @@ _This will demonstrate Automation by provisioning an S3 Bucket without using the
 
 _Principle of Least Privilege: It is considered a best practice to grant users only the necessary permissions to perform their tasks, it is a fundamental security concept that will help keep your systems secure in the long run._
 
-**Step 01**: Sign in with your Administrative Root User Account in order to grant permissions to your active Alias or IAM Account.
+**Step 01**: Sign in with your **Administrative Account** in order to grant permissions to your active _Development IAM Account._
 
 **Step 02:** Select **⁝⁝⁝ Security, Identity & Compliance** on the left side of the drop down menu.
 
@@ -184,10 +184,10 @@ Scroll to the bottom and click **Submit.**
 ```
 Timestamp       Logical ID                   Status                Status Reason
 -----------     --------------------------   --------------------  ---------------
-2024-XX-XX      my-first-automation-stack    CREATE_IN_PROGRESS    User initiated
-2024-XX-XX      MyAutomatedS3Bucket          CREATE_IN_PROGRESS    —
-2024-XX-XX      MyAutomatedS3Bucket          CREATE_COMPLETE       —
-2024-XX-XX      my-first-automation-stack    CREATE_COMPLETE       —
+2026-XX-XX      my-first-automation-stack    CREATE_IN_PROGRESS    User initiated
+2026-XX-XX      MyAutomatedS3Bucket          CREATE_IN_PROGRESS    —
+2026-XX-XX      MyAutomatedS3Bucket          CREATE_COMPLETE       —
+2026-XX-XX      my-first-automation-stack    CREATE_COMPLETE       —
 ```
 
 ✅ **Once the stack status shows CREATE_COMPLETE in green, your automation has succeeded!**
@@ -231,7 +231,7 @@ Scroll down to **Default encryption**: confirm it shows **Server-side encryption
 Don’t get a [**Bill Shock**](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/checklistforunwantedcharges.html) by leaving unnecessary resources running.
 
 1.  Navigate to _CloudFormation_ and **Delete** The Stack.
-2.  Login with your _Root User Account_, and **Remove All Permissions and Policies** associated with your IAM Account.
+2.  Login with your _Administrative Account_, and **Remove All Permissions and Policies** associated with your IAM Account.
 
 ### ⛔ End of Cleaning Up Protocol ⛔
 
@@ -381,6 +381,7 @@ Critically, we did all of this using only the minimum permissions required, rein
 Imagine doing that for hundreds of resources across multiple environments.
 
 _That_ is the true power of automation.
+
 
 
 ---
