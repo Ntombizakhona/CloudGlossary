@@ -104,6 +104,12 @@ Summary
 5.  How AutoScaling Works
 6.  Putting It All Together With An Analogy: Coffee Shop
 
+### Hands On
+
+1.  Configure AutoScaling
+2.  Create Launch Template
+3.  Terminate an Instance
+
 ### Cloud Glossary Terms Mentioned in this Article
 
 1.  Cloud Provider
