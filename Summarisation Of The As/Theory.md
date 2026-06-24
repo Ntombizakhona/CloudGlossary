@@ -183,6 +183,8 @@ This active learning journey isn’t just about using tools. It’s about unders
 
 That’s how you grow from beginner to pro!
 
+### Code & Demo
+
 🔗 [**Code:**](https://github.com/Ntombizakhona/A) **https://github.com/Ntombizakhona/A**
 
 🔗[**Demo:**](http://cloudglossary-a.s3-website-us-east-1.amazonaws.com/) **http://cloudglossary-a.s3-website-us-east-1.amazonaws.com/**
@@ -203,4 +205,15 @@ Version Control
 
 ### Originally Published
 
+**24 June 2026**
+
+---
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Active Learning](https://ntombizakhona.medium.com/active-learning-7290c9ceccc3?postPublishedType=repub)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
 **24 June 2026**
