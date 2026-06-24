@@ -300,14 +300,14 @@ nano website-developer-policy.json
   }
 ```
 
-**Step 03.3:** Save the file. Analyze it:
+**Step 03.4:** Save the file. Analyze it:
 
 *   lists _specific_ S3 actions (not `"*"` = everything), and
 *   is scoped to buckets named `cloudglossary-a-*` (not every bucket you own).
 
 Granting `"Action": "*"` on `"Resource": "*"` would be the lazy shortcut and a classic **Anti-Pattern.**
 
-**Step 03.3:** Create the policy in AWS and attach it to The Builder.
+**Step 03.5:** Create the policy in AWS and attach it to The Builder.
 
 > **_⚠️_**_Run this from the_ **_repo root_** _(the_ `_A/_` _folder) so the_ `_file://_` _path matches._
 > 
@@ -324,7 +324,7 @@ Granting `"Action": "*"` on `"Resource": "*"` would be the lazy shortcut and a c
     --policy-arn arn:aws:iam::ACCOUNT_ID:policy/CloudALabS3Policy
 ```
 
-**Step 03.3:** **(**👷 **The-Builder Hat)** The wall moves, but only where you opened it.
+**Step 03.6:** **(**👷 **The-Builder Hat)** The wall moves, but only where you opened it.
 
 ✅ **This now SUCCEEDS as you granted** `**s3:ListAllMyBuckets:**`
 
@@ -1333,9 +1333,31 @@ aws iam detach-user-policy --user-name cloudglossary \
   --policy-arn arn:aws:iam::ACCOUNT_ID:policy/CloudALabS3Policy
 # Delete the policies
 aws iam delete-policy --policy-arn arn:aws:iam::ACCOUNT_ID:policy/CloudALabS3Policy
+
 ```
 
 ### ⛔ End of Cleaning Up Protocol ⛔
+
+### Code & Demo
+
+Final Reflection!
+-----------------
+
+You didn’t just study the cloud. You **built with it, broke things safely, fixed them, and learned.** That’s the whole point. 🚀
+
+**Answer these in your own words:**
+
+1.  Which concept surprised you the most once you _did_ it instead of read it?
+2.  What broke, and how did you fix it?
+3.  What would you build next to practise the same ideas?
+
+This active learning journey isn’t just about using tools. It’s about understanding the cloud holistically. Each concept builds on the other. Apply your knowledge not just in this lab, but in every cloud project you tackle.
+
+That’s how you grow from beginner to pro!
+
+🔗 [**Code:**](https://github.com/Ntombizakhona/A) **https://github.com/Ntombizakhona/A**
+
+🔗[**Demo:**](http://cloudglossary-a.s3-website-us-east-1.amazonaws.com/) **http://cloudglossary-a.s3-website-us-east-1.amazonaws.com/**
 
 ---
 # The Original
