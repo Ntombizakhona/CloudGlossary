@@ -1223,7 +1223,7 @@ mkdir -p diagrams
 
 **Step 01.2:** Create `diagrams/architecture.md` and paste this [Mermaid](https://mermaid.js.org/) diagram (GitHub renders it automatically):
 
-```
+
 # Architecture Diagram
 ## The system you built
 ```mermaid
@@ -1236,7 +1236,6 @@ flowchart LR
     S3 -.replicated across.-> AZ3[(Availability Zone C)]
     Billing[CloudWatch Billing Alarm] -->|fires when over threshold| SNS[SNS Topic]
     SNS -->|Alert email| Dev
-```
 ```
 
 > **_🧠 Reflect:_** Looking at the diagram, can you name where **every** concept from this lab lives? (Abstraction is everywhere; Access Control is IAM; Availability is the AZ split; Alarms/Alerts are on the right…)
@@ -1251,7 +1250,7 @@ First, protect yourself: create a `.gitignore` at the repo root so you never com
 **Step 01:** Create `.gitignore` and paste:
 
 ```
-# NEVER commit AWS credentials
+NEVER commit AWS credentials
 .aws/
 credentials
 *.pem
@@ -1259,20 +1258,20 @@ credentials
 aws-exports.js
 *access-key*
 *secret*
-# Environment / local config
+Environment / local config
 .env
 .env.*
-# OS / editor noise
+OS / editor noise
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
-# Python
+Python
 __pycache__/
 *.pyc
 .venv/
 venv/
-# Temp files
+Temp files
 *.tmp
 *.log
 !infrastructure/scripts/sample-access.log
@@ -1288,7 +1287,7 @@ git add .
 git commit -m "Cloud Glossary - Summarisation of the As"
 git branch -M main
 git remote add origin <your-repo-url>
-  git push -u origin main
+git push -u origin main
 ```
 
 > _⚠️_ **_Double-check you are not committing AWS keys._**
@@ -1333,7 +1332,6 @@ aws iam detach-user-policy --user-name cloudglossary \
   --policy-arn arn:aws:iam::ACCOUNT_ID:policy/CloudALabS3Policy
 # Delete the policies
 aws iam delete-policy --policy-arn arn:aws:iam::ACCOUNT_ID:policy/CloudALabS3Policy
-
 ```
 
 ### ⛔ End of Cleaning Up Protocol ⛔
@@ -1360,6 +1358,7 @@ That’s how you grow from beginner to pro!
 🔗[**Demo:**](http://cloudglossary-a.s3-website-us-east-1.amazonaws.com/) **http://cloudglossary-a.s3-website-us-east-1.amazonaws.com/**
 
 ---
+
 # The Original
 
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
