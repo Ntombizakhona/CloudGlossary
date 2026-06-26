@@ -301,3 +301,13 @@ This walkthrough demonstrates one of AWS’s most important reliability patterns
 **Security note:** The tutorial correctly uses an IAM user with scoped managed policies (`AWSBackupFullAccess` and `AmazonEC2FullAccess`) rather than the root account . A least-privilege best practice that limits blast radius if credentials are ever compromised.
 
 ---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Backups](https://ntombizakhona.medium.com/backups-1589601afdb5)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**26 June 2026**
